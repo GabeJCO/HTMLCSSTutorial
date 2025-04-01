@@ -25,4 +25,4 @@ function displayCatFact(fact) {
 }
 
 // Call the function to fetch and display the cat fact
-fetchCatFact();
+fetchCatFact();                  
